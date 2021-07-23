@@ -1,0 +1,100 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+
+.mainLoginInput{
+    height: 48px;
+    
+}
+
+.mainLoginInput::-webkit-input-placeholder { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+color: #CCCCCC;
+position: relative;
+margin-left: 20px;
+right: -150px;
+margin: auto;
+}
+
+.mainLoginInput::-moz-placeholder  { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+color: #CCCCCC;
+position: relative;
+margin-left: 20px;
+right: -150px;
+margin: auto;
+}
+
+.mainLoginInput:-ms-input-placeholder  { 
+font-family: FontAwesome;
+font-weight: normal;
+overflow: visible;
+vertical-align: top;
+display: inline-block !important;
+padding-left: 5px;
+padding-top: 2px;
+color: #CCCCCC;
+position: relative;
+margin-left: 20px;
+right: -150px;
+margin: auto;
+}
+
+.carousel-item img{
+    width: 80%;
+}
+.buy-now-button{    
+    
+    margin-top: 40px;
+    background-image: linear-gradient(#FF589B,  #FF136F);
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: white;
+    border: 0;
+}
+.carousel-bg-color{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+    height:500px;
+}
+.catagory-image img {
+    width: 100px;
+}
+
+#watch-catagory{
+    background-image: linear-gradient(#FF9C35, #FFD019 );
+    border-radius: 12px;
+}
+#bag-catagory{
+    background-image: linear-gradient(#FF589B, #FF136F );
+    border-radius: 12px;
+}
+#shoe-catagory{
+    background-image: linear-gradient(#4289FF, #3F07F8 );
+    border-radius: 12px;
+}
+.rounded-option{
+    border-radius: 25px;
+}    
+.fotter-div-col{
+    background-color: #FFF2F1;
+    height: 300px;
+    margin-bottom: 50px;
+}#input-e{
+    border-radius: 5px 0px 0px 5px;
+}
+#button-b{
+    border-radius: 0px 5px 5px 0px;
+    background-image: linear-gradient(#FF589B, #FF136F);
+    border: 0px;
+}
